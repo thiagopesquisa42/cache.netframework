@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MemoryCache\MemoryCacheCustom.csproj">
+      <Project>{D1DA3D6A-478E-4C07-B7EE-F7904BE1A6BF}</Project>
+      <Name>MemoryCacheCustom</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
