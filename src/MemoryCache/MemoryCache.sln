@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console", "Console\Console.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryCacheCustom", "MemoryCache\MemoryCacheCustom.csproj", "{D1DA3D6A-478E-4C07-B7EE-F7904BE1A6BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{E42D7BB9-3EBC-419B-A886-495F8E846120}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D1DA3D6A-478E-4C07-B7EE-F7904BE1A6BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1DA3D6A-478E-4C07-B7EE-F7904BE1A6BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1DA3D6A-478E-4C07-B7EE-F7904BE1A6BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E42D7BB9-3EBC-419B-A886-495F8E846120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E42D7BB9-3EBC-419B-A886-495F8E846120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E42D7BB9-3EBC-419B-A886-495F8E846120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E42D7BB9-3EBC-419B-A886-495F8E846120}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
